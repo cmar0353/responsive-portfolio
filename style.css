@@ -4,18 +4,35 @@
 .aboutMe {
     padding: 25px;
     font-size: 60px;
-    
     margin-left: 500px ;
     color: #17a2b8 ;
 }
 /* adding css to paragraph text */
 p {
-    font-size: 20px;
-    font-style: italic;
+    margin-top: 15px;
+    font-size: 21px;
+    font-family: 'Open Sans Condensed', sans-serif;
     margin-right: 40px;
+    
 }
 .img-fluid{
-    margin-left: 70px;
-    max-height: 50%;
+    margin-top: 15px;
+    margin-left: 40px;
+    max-height: 55%;
     max-width: 150%;
 }
+.footerWrap {
+    width:100%;
+    position:fixed;
+    bottom: 0px;
+}
+.footer {
+    width:400px;
+    margin:auto;
+}
+.footerContent {
+    float:left;
+    width:100%;
+    padding:20px 0;
+}
+.footer p {float:left; width:100%; text-align:center; }
