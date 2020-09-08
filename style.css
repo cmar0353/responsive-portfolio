@@ -1,0 +1,21 @@
+.navbar-brand{
+    color:#17a2b8 !important;
+}
+.aboutMe {
+    padding: 25px;
+    font-size: 60px;
+    
+    margin-left: 500px ;
+    color: #17a2b8 ;
+}
+/* adding css to paragraph text */
+p {
+    font-size: 20px;
+    font-style: italic;
+    margin-right: 40px;
+}
+.img-fluid{
+    margin-left: 70px;
+    max-height: 50%;
+    max-width: 150%;
+}
