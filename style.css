@@ -38,6 +38,7 @@ p {
 .footer p {float:left; width:100%; text-align:center; }
 
 /* contact page css  */
+
 * .body {
     background-color: lightsteelblue;
 }
@@ -52,3 +53,29 @@ margin-left: 25px;
 .h1 {
     padding-top: 60px;
 }
+ 
+
+.fa:hover {
+    opacity: 0.7;
+  }
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+ .html {
+     color: orange;
+ }
+ .css{
+     color: orange;
+ }
+ .javascript{
+     color: orange;
+ }
+ .projects{
+      color: orange;
+      margin-left: 200px;
+ }
+ 
