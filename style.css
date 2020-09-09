@@ -37,12 +37,18 @@ p {
 }
 .footer p {float:left; width:100%; text-align:center; }
 
-/* contact page css */
-.section {
-    background-color: rgb(176, 222, 218);
+/* contact page css  */
+* .body {
+    background-color: lightsteelblue;
 }
 .card{
 color: rgb(13, 65, 133);
+margin-left: 25px;
 }
-
-
+.contact {
+    margin-left: 25px;
+    
+}
+.h1 {
+    padding-top: 60px;
+}
