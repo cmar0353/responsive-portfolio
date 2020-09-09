@@ -43,11 +43,15 @@ p {
     background-color: lightsteelblue;
 }
 .card{
-color: rgb(13, 65, 133);
-margin-left: 25px;
+color:rgb(13, 65, 133);
+margin-left: 200px;
+
+
 }
 .contact {
     margin-left: 25px;
+    
+    
     
 }
 .h1 {
@@ -78,4 +82,9 @@ margin-left: 25px;
       color: orange;
       margin-left: 200px;
  }
- 
+ .contact{
+     margin-left: 280px;
+ }
+ .list-group {
+     margin-left: 45px;
+ }
