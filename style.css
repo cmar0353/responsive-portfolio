@@ -36,3 +36,13 @@ p {
     padding:20px 0;
 }
 .footer p {float:left; width:100%; text-align:center; }
+
+/* contact page css */
+.section {
+    background-color: rgb(176, 222, 218);
+}
+.card{
+color: rgb(13, 65, 133);
+}
+
+
